@@ -1,0 +1,22 @@
+.fire{
+    background-image: url("fire.jpg");
+}
+
+.text_color{
+    background-color: black;
+    color: #eb09ab ;
+}
+
+.footer{
+    text-align: center;
+    bottom: 0;
+    background-color: black;
+    color: blue;
+    position: fixed;
+    width: 100%;
+}
+
+canvas{
+    border: 5px solid red;
+    box-shadow: 5px 5px 5px 5px;
+}
